@@ -94,7 +94,7 @@ fun WelcomeHeader() {
             colors = CardDefaults.cardColors(containerColor = TextWhite)
         ) {
             Text(
-                text = "SahabatPangan",
+                text = "Foodlink",
                 color = AppGreen,
                 fontWeight = FontWeight.Bold,
                 modifier = Modifier.padding(horizontal = 12.dp, vertical = 4.dp),
@@ -197,7 +197,7 @@ fun CallCenterInfo() {
         verticalArrangement = Arrangement.spacedBy(4.dp)
     ) {
         Text(
-            text = "Call Center SahabatPangan",
+            text = "Call Center Foodlink",
             color = TextWhite,
             fontWeight = FontWeight.Bold,
             fontSize = 14.sp
